@@ -18,7 +18,7 @@ $result = $conn->query($sql);
 </head>
 <body>
     <header>
-        <h1>Anime Characters</h1>
+    <h1>Anime Chronicles</h1>
         <nav>
             <ul>
                 <li><a href="index.php">Home</a></li>
